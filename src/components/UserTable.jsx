@@ -29,6 +29,7 @@ function UserTable(props) {
                   </tr>
                 )
             }
+            
         </tbody>
       </table>
     )
